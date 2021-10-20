@@ -3,4 +3,4 @@ A simple application to predicts what music genre a specific user of a certain a
 
 ##
 # Output result
-![alt text](https://github.com/TobbyEchonga/car_game_algorithm/blob/main/ml_music_output.JPG?raw=true)
+![alt text](https://github.com/TobbyEchonga/music_genre_machine-_learing/blob/main/ml_music_output.JPG?raw=true)
